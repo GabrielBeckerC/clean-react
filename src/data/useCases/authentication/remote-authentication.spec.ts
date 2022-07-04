@@ -24,3 +24,4 @@ describe('RemoteAuthentication', () => {
     expect(httpPostClientSpy.url).toBe(url)
   })
 })
+
